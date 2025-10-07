@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil 👋
 
-- 🔭 Atualmente cursando Sistemas de Informação 5/8, buscando sempre obter um conhecimento maior e me aprimorar nas diversas tecnologias
+- 🔭 Atualmente cursando Sistemas de Informação 6/8, buscando sempre obter um conhecimento maior e me aprimorar nas diversas tecnologias
 - 📫 Como me contatar: **luizeduardo1953@gmail.com**
 
 ## Tecnologias e Ferramentas 🛠️
